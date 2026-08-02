@@ -1,0 +1,6 @@
+{
+  "name": "Codeforces Contest Reminder",
+  "description": "Live Codeforces contest schedule, custom 20-minute desktop and mobile notifications, time zone auto-conversion, sound alerts, and one-click calendar sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
